@@ -1,0 +1,21 @@
+.divider{
+    width: 70px;
+    
+}
+.bg-color{
+    background-image: url(img/cta-bg.jpg);
+    height: 50vh;
+    background-size: cover;
+    background-attachment: fixed;
+    z-index: 2;
+}
+.overlay{
+    background-color: rgba(0, 119, 255, 0.648);
+    height: 50vh;
+    z-index: -1;
+}
+
+
+
+
+
